@@ -1,11 +1,11 @@
 export default function App() {
   const student = {
-    name: "Arun Kumar",
+    name: "A.Nithendra",
     regNo: "24CS1001",
     dept: "CSE",
     year: "II Year",
     email: "arun.kumar@klu.edu.in",
-    cgpa: "8.6",
+    cgpa: "8.5",
   };
 
   return (
